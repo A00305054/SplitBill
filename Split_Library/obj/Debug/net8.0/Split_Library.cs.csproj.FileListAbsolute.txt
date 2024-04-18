@@ -1,0 +1,11 @@
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\bin\Debug\net8.0\Split_Library.cs.deps.json
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\bin\Debug\net8.0\Split_Library.cs.dll
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\bin\Debug\net8.0\Split_Library.cs.pdb
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.dll
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\refint\Split_Library.cs.dll
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\Split_Library.cs.pdb
+C:\Users\ankit\source\repos\Split_Solution\Split_Library\obj\Debug\net8.0\ref\Split_Library.cs.dll

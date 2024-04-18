@@ -1,0 +1,4 @@
+C:\Users\ankit\source\repos\Split_Solution\Split_Solution\obj\Debug\net8.0\Split_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Split_Solution\Split_Solution\obj\Debug\net8.0\Split_Solution.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Split_Solution\Split_Solution\obj\Debug\net8.0\Split_Solution.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Split_Solution\Split_Solution\obj\Debug\net8.0\Split_Solution.csproj.CoreCompileInputs.cache
