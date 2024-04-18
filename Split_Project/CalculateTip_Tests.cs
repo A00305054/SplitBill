@@ -17,9 +17,9 @@ namespace SplitBill_Tests
             var tipCalc = new CalculateTip();
             var mealCosts = new Dictionary<string, decimal>
             {
-                {"Divya", 20.0m},
-                {"Joy", 30.0m},
-                {"Jessica", 25.0m}
+                {"Ankita", 20.0m},
+                {"Trusha", 30.0m},
+                {"Avani", 25.0m}
             };
             float tipPercent = 15.0f;
 
@@ -51,8 +51,8 @@ namespace SplitBill_Tests
             var tipCalc = new CalculateTip();
             var mealCosts = new Dictionary<string, decimal>
             {
-                {"Divya", 20.0m},
-                {"Joy", 30.0m}
+                {"Ankita", 20.0m},
+                {"Trusha", 30.0m}
             };
             float tipPercent = -5.0f;
 
