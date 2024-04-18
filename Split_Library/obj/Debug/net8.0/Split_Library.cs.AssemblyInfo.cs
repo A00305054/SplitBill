@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Split_Library.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b79aea98d9805a95b1a536027e827d8956b140d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Split_Library.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Split_Library.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
